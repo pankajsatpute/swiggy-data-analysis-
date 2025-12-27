@@ -49,7 +49,7 @@ Key analyses performed:
 #Power BI Dashboard
 The dashboard consists of 4 interactive pages
 
-# Overview
+#Overview
 - Total Restaurants
 - Average Price
 - Average Rating
